@@ -1,0 +1,14 @@
+# The solution to Bandit Level 2 on OverTheWire.org 
+
+# Connect as user bandit1.
+ssh bandit1@bandit.labs.overthewire.org -p 2220
+
+# List the files in the home directory.
+ls
+
+# There is a file named -.
+
+# Add ./ before filenames beginning with special characters.
+cat ./-
+
+# Password for bandit2: rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi

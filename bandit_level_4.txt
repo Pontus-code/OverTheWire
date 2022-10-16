@@ -1,0 +1,18 @@
+# The solution to Bandit Level 4 on OverTheWire.org 
+
+# Connect as bandit3
+ssh bandit3@bandit.labs.overthewire.org -p 2220
+
+# List the contents of the home directory.
+ls
+
+# Move into the inhere directory.
+cd inhere
+
+# List the files of the inhere directory including hidden files.
+ls -a
+
+# Read the contents of .hidden
+cat .hidden
+
+# The password for bandit4 is: 2EW7BBsr6aMMoJ2HjW067dm8EgX26xNe
