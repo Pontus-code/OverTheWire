@@ -1,9 +1,13 @@
-# The solution to Bandit Level 3 on OverTheWire.org
+#!/bin/bash
+
+# The solution to Bandit Level 3 on OverTheWire.org.
 
 # Connect as bandit2.
-ssh bandit2@bandit.labs.overthewire.org -p 2220
-
+# ssh bandit2@bandit.labs.overthewire.org -p 2220
 # The password is: rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi
+
+# Run this script when logged on as bandit2.
+# ./bandit_level_3.sh
 
 # List the files in the home directory.
 ls
