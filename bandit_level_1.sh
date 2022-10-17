@@ -1,3 +1,4 @@
+#!/bin/bash
 # The solution to Bandit Level 0 ond 1 on OverTheWire.org
 
 # Connect with ssh to bandit.labs.overthewire.org on port 2220.
