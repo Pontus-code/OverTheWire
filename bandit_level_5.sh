@@ -1,7 +1,13 @@
+#!/bin/bash
+
 # The solution to Bandit Level 5 on OverTheWire.org.
 
 # Connect as bandit4.
-ssh bandit4@bandit.labs.overthewire.org -p 2220
+# ssh bandit4@bandit.labs.overthewire.org -p 2220
+# The password for bandit4 is: 2EW7BBsr6aMMoJ2HjW067dm8EgX26xNe
+
+# Run this script when logged in as bandit4.
+# ./bandit_level_5.sh
 
 # List the contents of the home directory
 ls
