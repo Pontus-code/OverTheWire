@@ -1,7 +1,13 @@
-# The solution to Bandit Level 4 on OverTheWire.org 
+#!/bin/bash
 
-# Connect as bandit3
-ssh bandit3@bandit.labs.overthewire.org -p 2220
+# The solution to Bandit Level 4 on OverTheWire.org. 
+
+# Connect as bandit3.
+# ssh bandit3@bandit.labs.overthewire.org -p 2220
+# The password is: aBZ0W5EmUfAf7kHTQeOwd8bauFJ2lAiG
+
+# Run this script when logged in as bandit3.
+# ./bandit_level_4.sh
 
 # List the contents of the home directory.
 ls
