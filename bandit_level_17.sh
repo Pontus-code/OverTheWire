@@ -1,4 +1,4 @@
-# Solutio to Bandit level 17 on OverTheWire.org
+# Solution to Bandit level 17 on OverTheWire.org.
 
 # Connect as bandit16.
 # ssh bandit16@bandit.labs.overthewire.org -p 2220
