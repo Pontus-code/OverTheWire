@@ -1,4 +1,4 @@
-# Solution to Bandit level 15 on OverTheWire.org
+# Solution to Bandit level 15 on OverTheWire.org.
 
 # Login as bandit14. 
 # ssh bandit14@bandit.labs.overthewire.org -p 2220
